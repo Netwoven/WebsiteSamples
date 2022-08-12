@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "Avhx72intrFLd8zFxet4oQd1RPvgn1PG8stPd1PcXSWDAT8bZAW677jRVygUsr92Z2GsMu/1KrFJmQmcUIcQFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dchaudhury\\source\\repos\\Hello Service\\HelloServiceStateful\\HelloServiceStateful.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dchaudhury\\.nuget\\packages\\microsoft.servicefabric\\8.2.1235\\microsoft.servicefabric.8.2.1235.nupkg.sha512",
+    "C:\\Users\\dchaudhury\\.nuget\\packages\\microsoft.servicefabric.data\\5.2.1235\\microsoft.servicefabric.data.5.2.1235.nupkg.sha512",
+    "C:\\Users\\dchaudhury\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\5.2.1235\\microsoft.servicefabric.data.extensions.5.2.1235.nupkg.sha512",
+    "C:\\Users\\dchaudhury\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\5.2.1235\\microsoft.servicefabric.data.interfaces.5.2.1235.nupkg.sha512",
+    "C:\\Users\\dchaudhury\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\5.2.1235\\microsoft.servicefabric.diagnostics.internal.5.2.1235.nupkg.sha512",
+    "C:\\Users\\dchaudhury\\.nuget\\packages\\microsoft.servicefabric.services\\5.2.1235\\microsoft.servicefabric.services.5.2.1235.nupkg.sha512",
+    "C:\\Users\\dchaudhury\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\dchaudhury\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.0\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.0.nupkg.sha512",
+    "C:\\Users\\dchaudhury\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.0\\microsoft.netcore.app.runtime.win-x64.3.1.0.nupkg.sha512",
+    "C:\\Users\\dchaudhury\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.0\\microsoft.aspnetcore.app.runtime.win-x64.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
